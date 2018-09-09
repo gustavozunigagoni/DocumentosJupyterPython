@@ -1,0 +1,1 @@
+Este proyecto personal es para el mejor entendimiento de los métodos de algunas librerías de python. Estoy utilizando Jupyter para realizar mis pruebas de funcionalidad, realizo una pequeña explicación de su funcionamiento y algunos ejemplos de uso.
